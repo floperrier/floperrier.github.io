@@ -1,0 +1,11 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/38816/image-from-rawpixel-id-2210775-jpeg.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.list-group {
+    max-height: 500px;
+    overflow-y:scroll;
+    -webkit-overflow-scrolling: touch;
+}
